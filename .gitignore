@@ -1,2 +1,5 @@
 .env
+admin/.env
+
 node_modules/
+
